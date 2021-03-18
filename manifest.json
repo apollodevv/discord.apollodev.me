@@ -1,0 +1,16 @@
+{
+    "short_name": "Apollo",
+    "name": "Apollo's Website",
+    "icons": [
+        {
+            "src": "942945893243235.gif",
+            "type": "image/gif",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "/",
+    "background-color": "#23272a",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#7289da"
+}
