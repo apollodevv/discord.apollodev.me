@@ -1,4 +1,4 @@
-const CACHE_NAME = "static_cache3"
+const CACHE_NAME = "static_cache"
 const STATIC_ASSETS = [
   'index.html',
   'assets/main.css'
