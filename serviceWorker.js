@@ -1,7 +1,7 @@
 const CACHE_NAME = "static_cache3"
 const STATIC_ASSETS = [
   '/',
-  '/index.html',
+  'index.html',
   'assets/main.css'
 ]
 
